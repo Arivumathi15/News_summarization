@@ -1,0 +1,6 @@
+firecrawl-py
+openai
+dotenv
+pandas
+openpyxl
+Flask
